@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexsivera.github.io/peluqueria-silvia-beniarbeig/sitemap.xml
